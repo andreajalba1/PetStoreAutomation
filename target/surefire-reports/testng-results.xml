@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T17:00:48 EEST" name="All Test Suite" finished-at="2023-10-11T17:00:54 EEST" duration-ms="6041">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T17:00:48 EEST" name="D:/PetStoreAutomation/src/test/java/api/test" finished-at="2023-10-11T17:00:54 EEST" duration-ms="6041">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.test.UserTests@1ea9f6af]" started-at="2023-10-11T17:00:48 EEST" name="setUpData" finished-at="2023-10-11T17:00:49 EEST" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@1ea9f6af]" started-at="2023-10-11T17:00:49 EEST" name="testPostUser" finished-at="2023-10-11T17:00:51 EEST" duration-ms="2502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUser()[pri:2, instance:api.test.UserTests@1ea9f6af]" started-at="2023-10-11T17:00:51 EEST" name="testGetUser" finished-at="2023-10-11T17:00:52 EEST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testupdateUser()[pri:3, instance:api.test.UserTests@1ea9f6af]" started-at="2023-10-11T17:00:52 EEST" name="testupdateUser" finished-at="2023-10-11T17:00:53 EEST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTests@1ea9f6af]" started-at="2023-10-11T17:00:53 EEST" name="testDeleteUser" finished-at="2023-10-11T17:00:54 EEST" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.test.UserTests -->
+    </test> <!-- D:/PetStoreAutomation/src/test/java/api/test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

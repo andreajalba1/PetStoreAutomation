@@ -1,0 +1,8 @@
+[INFO ] 2023-10-10 22:58:55.382 [main] UserTests - Creating user
+[INFO ] 2023-10-10 22:58:58.049 [main] UserTests - User is created
+[INFO ] 2023-10-10 22:58:58.058 [main] UserTests - Reading user
+[INFO ] 2023-10-10 22:58:58.745 [main] UserTests - User is displayed
+[INFO ] 2023-10-10 22:58:58.747 [main] UserTests - Updating User
+[INFO ] 2023-10-10 22:58:59.428 [main] UserTests - User Updated
+[INFO ] 2023-10-10 22:59:00.103 [main] UserTests - Deleting user
+[INFO ] 2023-10-10 22:59:00.779 [main] UserTests - User is deleted
